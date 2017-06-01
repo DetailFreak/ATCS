@@ -16,7 +16,7 @@ The project aims to alleviate the suffering of commuters to Amity Lucknow campus
 The project consists of three modules
     1. Sensing mechanism.( Hardware )
     2. Image processing
-           - crossing detection ( using LeNet over a pre processed image database )
+           - crossing detection
            - traffic counting
     3. Android app and website.
 
